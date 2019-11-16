@@ -9,10 +9,10 @@ defmodule ElixirGithubActionCache do
   ## Examples
 
       iex> ElixirGithubActionCache.hello()
-      :world
+      :hello
 
   """
   def hello do
-    :world
+    :hello
   end
 end

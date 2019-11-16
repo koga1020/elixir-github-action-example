@@ -3,6 +3,6 @@ defmodule ElixirGithubActionCacheTest do
   doctest ElixirGithubActionCache
 
   test "greets the world" do
-    assert ElixirGithubActionCache.hello() == :world
+    assert ElixirGithubActionCache.hello() == :hello
   end
 end
